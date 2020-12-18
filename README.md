@@ -5,7 +5,7 @@
 <ul>
   <li> 
     <a href="https://www.acmicpc.net/problem/18258">18258번</a> 큐 2 
-    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/answer/Q_10845.java"> java 코드 </a>)
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/queue/Q_10845.java"> java 코드 </a>)
   </li>
 </ul>
 
@@ -13,7 +13,7 @@
 <ul>
   <li> 
     <a href="https://www.acmicpc.net/problem/2667">2667번</a> 단지번호붙이기 
-    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/answer/Q_2667.java"> java 코드 </a>)
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/dfs_bfs/Q_2667.java"> java 코드 </a>)
   </li>
 </ul>
 
