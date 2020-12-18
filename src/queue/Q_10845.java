@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.LinkedList;
 import java.util.Queue;
-
+ 
 // 하.. "\n" 하나 안해줬다고 틀렸던 문제.. 새벽이라 눈이 침침해서 그런가? 
 public class Q_10845 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
