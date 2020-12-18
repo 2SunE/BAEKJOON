@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-// 행복한 시간 초과..
+// 행복한 시간 초과.. 
 public class Q_10845_time_over {
 	public static void main(String[] args) {
 		//정수를 저장하는 큐를 구현한 다음, 입력으로 주어지는 명령을 처리하는 프로그램을 작성하시오.
