@@ -12,7 +12,7 @@
 <h5>단계별로 풀어보기 - DFS와 BFS</h5>
 <ul>
   <li> 
-    <a href="https://www.acmicpc.net/problem/18258">2667번 </a>
+    <a href="https://www.acmicpc.net/problem/18258">2667번 단지번호붙이기 </a>
     (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/answer/Q_2667.java"> java 코드 </a>)
   </li>
 </ul>
