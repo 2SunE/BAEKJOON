@@ -6,6 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
+// 2667번:단지번호붙이기
 public class Q_2667 {
 	static Scanner sc = new Scanner(System.in);
 
