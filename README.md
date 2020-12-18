@@ -3,7 +3,7 @@
 
 <ul>
   <li> 
-    문제: <a href="https://www.acmicpc.net/problem/18258">18258번 큐 2</a> (
+    문제: <a href="https://www.acmicpc.net/problem/18258">18258번 큐 2</a> 코드: (
     <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/answer/Q_2667.java">java</a>)
   </li>
 </ul>
