@@ -24,7 +24,7 @@
 :girl: 피영아 <a href="https://github.com/yeonga"> @yeonga</a> <br>
 
 
-#### 시작 💻
+### :pushpin: 시작 💻
 
 <h5>단계별로 풀어보기 - 큐, 덱</h5>
 <ul>
