@@ -39,8 +39,9 @@
 <ul>
   <li> 
     <a href="https://www.acmicpc.net/problem/2667">2667번</a> 단지번호붙이기 
-    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/dfs_bfs/Q_2667.java"> java 코드 </a> |
-     <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/dfs_bfs/Q_2667_2.java"> java 코드 </a>)
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/dfs_bfs/Q_2667.java"> java 코드 - BFS, N </a> |
+     <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/dfs_bfs/Q_2667_2.java"> java 코드 - BFS, N+1 </a> |
+     <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/dfs_bfs/Q_2667_2.java"> java 코드 - DFS</a> )
   </li>
 </ul>
 
