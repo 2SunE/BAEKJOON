@@ -21,11 +21,11 @@
 :boy: 안형모 <a href="https://github.com/Anhoungmo"> @Anhoungmo</a> <br>
 :baby: 오현지 <a href="https://github.com/ohj4312"> @ohj4312</a> <br>
 :princess: 이선 <a href="https://github.com/2SunE"> @2SunE</a> <br>
-:girl: 피영아 <a href="https://github.com/yeonga"> @yeonga</a> <br>
+:girl: 피영아 <a href="https://github.com/yeonga"> @yeonga</a> <br><br><br>
 
 
-### :pushpin: 시작 💻 
--------------
+## :pushpin: 시작 
+
 
 <h5>단계별로 풀어보기 - 큐, 덱</h5>
 <ul>
