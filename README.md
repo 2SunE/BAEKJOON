@@ -31,7 +31,7 @@
   <li> 
     <a href="https://www.acmicpc.net/problem/10828">18258번</a> 스택
     (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/stack/Q_10828.java"> java 코드 </a> |
-     <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/stack/Q_10828_time_over.java"> java 코드 </a> )
+     <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/stack/Q_10828_time_over.java"> java 코드 - 시간 초과 </a> )
   </li>
 </ul>
 
@@ -39,7 +39,8 @@
 <ul>
   <li> 
     <a href="https://www.acmicpc.net/problem/18258">18258번</a> 큐 2 
-    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/queue/Q_10845.java"> java 코드 </a>)
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/queue/Q_10845.java"> java 코드 </a> |
+     <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/queue/Q_10845_time_over.java"> java 코드 - 시간 초과 </a> )
   </li>
 </ul>
 
