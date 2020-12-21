@@ -40,6 +40,10 @@
     <a href="https://www.acmicpc.net/problem/10809">10809번</a> 알파벳 찾기
     (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/string/Q_10809.java"> java 코드 </a>)
   </li>
+  <li> 
+    <a href="https://www.acmicpc.net/problem/2675">10809번</a> 문자열 반복
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/string/Q_2675.java"> java 코드 </a>)
+  </li>
 </ul>
 
 <h5>단계별로 풀어보기 - 스택</h5>
