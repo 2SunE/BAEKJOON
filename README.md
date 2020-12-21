@@ -21,7 +21,7 @@
 :boy: 안형모 <a href="https://github.com/Anhoungmo"> @Anhoungmo</a> <br>
 :baby: 오현지 <a href="https://github.com/ohj4312"> @ohj4312</a> <br>
 :princess: 이선 <a href="https://github.com/2SunE"> @2SunE</a> <br>
-:girl: 피영아 <a href="https://github.com/yeonga"> @yeonga</a> <br><br><br>
+:girl: 피영아 <a href="https://github.com/yeonga"> @yeonga</a> <br><br>
 
 
 ## :pushpin: 시작 
@@ -32,6 +32,10 @@
     <a href="https://www.acmicpc.net/problem/10828">18258번</a> 스택
     (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/stack/Q_10828.java"> java 코드 </a> |
      <a href="https://github.com/2SunE/BAEKJOON/blob/master/src/stack/Q_10828_time_over.java"> java 코드 - 시간 초과 </a> )
+  </li>
+  <li> 
+    <a href="https://www.acmicpc.net/problem/10773">10773번</a> 제로
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/stack/Q_10773.java"> java 코드 </a>)
   </li>
 </ul>
 
