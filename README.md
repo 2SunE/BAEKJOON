@@ -26,6 +26,22 @@
 
 ## :pushpin: 시작 
 
+<h5>단계별로 풀어보기 - 문자열</h5>
+<ul>
+  <li> 
+    <a href="https://www.acmicpc.net/problem/11654">11654번</a> 아스키코드
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/string/Q_11654.java"> java 코드 </a>)
+  </li>
+  <li> 
+    <a href="https://www.acmicpc.net/problem/11720">11720번</a> 숫자의 합
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/string/Q_11720.java"> java 코드 </a>)
+  </li>
+  <li> 
+    <a href="https://www.acmicpc.net/problem/10809">10809번</a> 알파벳 찾기
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/string/Q_10809.java"> java 코드 </a>)
+  </li>
+</ul>
+
 <h5>단계별로 풀어보기 - 스택</h5>
 <ul>
   <li> 
