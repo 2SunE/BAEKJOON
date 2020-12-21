@@ -26,6 +26,13 @@
 
 ## :pushpin: 시작 
 
+<h5>단계별로 풀어보기 - 스택</h5>
+<ul>
+  <li> 
+    <a href="https://www.acmicpc.net/problem/10828">18258번</a> 스택
+    (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/stack/Q_10828.java"> java 코드 </a>)
+  </li>
+</ul>
 
 <h5>단계별로 풀어보기 - 큐, 덱</h5>
 <ul>
