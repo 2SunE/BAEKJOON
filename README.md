@@ -14,7 +14,7 @@
 	<li>해당하는 알고리즘에 대한 설명</li>
 </ul>
 
-<h4> # 참여하는 사람들 </h4>
+<h4> # 참여하는 사람들 </h4> 
 
 :man: 김태산 <a href="https://github.com/kva231"> @kva231</a> <br>
 :woman: 서윤아 <a href="https://github.com/seohina"> @seohina</a> <br>
