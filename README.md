@@ -57,5 +57,7 @@
 
 <h5>수학</h5>
 <ul>
-	<li><a href="https://github.com/2SunE/BAEKJOON/blob/master/src/math/Q_17425.java">java 코드 - 약수의 합</a></li>
+	<li>
+	<a href="https://www.acmicpc.net/problem/17425">17425번</a>
+	약수의 합 (<a href="https://github.com/2SunE/BAEKJOON/blob/master/src/math/Q_17425.java">java 코드</a>)</li>
 </ul>
